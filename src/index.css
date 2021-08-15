@@ -4,6 +4,13 @@ body, html {
   scroll-behavior: smooth;
 }
 
+.card-secction{
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+
+}
+
 .carousel-item img{
   height: 70vh;
 }
