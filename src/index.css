@@ -3,3 +3,9 @@ body, html {
   padding: 0 0 20px 0;
   scroll-behavior: smooth;
 }
+
+.card-secction{
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+}
