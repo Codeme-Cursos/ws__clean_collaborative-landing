@@ -8,22 +8,4 @@ body, html {
   display: flex;
   flex-direction: row;
   padding: 20px;
-
-}
-
-.carousel-item img{
-  height: 70vh;
-}
-.carousel-item > div:hover{
-  color: black;
-}
-.buttons-group > div > a{
-  width: 150px;
-}
-td > a{
-  color: black;
-  text-decoration: none;
-}
-td > a:hover{
-  color: grey;
 }
