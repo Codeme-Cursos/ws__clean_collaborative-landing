@@ -1,0 +1,22 @@
+body, html {
+  margin: 0;
+  padding: 0 0 20px 0;
+  scroll-behavior: smooth;
+}
+
+.carousel-item img{
+  height: 70vh;
+}
+.carousel-item > div:hover{
+  color: black;
+}
+.buttons-group > div > a{
+  width: 150px;
+}
+td > a{
+  color: black;
+  text-decoration: none;
+}
+td > a:hover{
+  color: grey;
+}
