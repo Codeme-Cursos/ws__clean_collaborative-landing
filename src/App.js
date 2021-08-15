@@ -1,6 +1,6 @@
 import Form from "./Form";
 import Navbar from "./Navbar";
-
+import Footer from "./Footer";
 
 
 function App() {
@@ -8,6 +8,7 @@ function App() {
     <div className="container">
       <Navbar />
       <Form/>
+      <Footer/>
     </div>
   );
 }
